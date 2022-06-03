@@ -1,11 +1,11 @@
 id: bitcoin-knots
 title: "Bitcoin Knots"
-version: v23.0
+version: 23.0.0
 release-notes: "Place holder"
-licence: MIT
+license: mit
 wrapper-repo: "https://github.com/BitcoinMechanic/bitcoin-knots-wrapper"
 upstream-repo: "https://github.com/bitcoinknots/bitcoin/"
-upport-site: "https://bitcoinknots.org/"
+support-site: "https://bitcoinknots.org/"
 marketing-site: "https://bitcoinknots.org/"
 build: ["make"]
 description:
